@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    display: flex;
+    list-style-type: none;
+    width: 1500px;
+    height: 100px;
+    background-color: aliceblue;
+    padding-top: 20px;
+    position: fixed;
+    
+}
+.logo{
+    display: flex;
+    padding-top: 10px;
+ 
+}
+.b1 h1{
+    font-size: 20px;
+    padding-top: 30px;
+}
+.navbar{
+   padding-left: 500px;
+  
+}
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    padding-left: 40px;
+    padding-top: 30px;
+   
+}
+li a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.61);
+    font-weight: bold;
+}
+.b2 h1{
+    padding-top: 200px;
+    font-size: 70px;
+
+}
+.box1{
+    padding-top: 40px;
+    display: flex;
+
+}
+.b3{
+    width: 400px;
+    height: 400px;
+    background-color: aliceblue;
+    margin-left: 20px;
+    padding-bottom: 100px;
+    border: 1px solid rgba(0, 0, 0, 0.425);
+}
+.b3 h1{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.b3 h2{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.b3 h3{
+    padding-left: 30px;
+    padding-top: 20px;
+
+}
+.b3 p{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.b3 button{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 70px;
+    float: left 50px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.b4{
+    width: 400px;
+    height: 400px;
+    background-color: aliceblue;
+    margin-left: 20px;
+    padding-bottom: 100px;
+    border: 1px solid rgba(0, 0, 0, 0.425);
+}
+.b4 h1{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.b4 h2{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.b4 h3{
+    padding-left: 30px;
+    padding-top: 20px;
+
+}
+.b4 p{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.b4 button{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 70px;
+    float: left 50px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.b5{
+    width: 400px;
+    height: 400px;
+    background-color: aliceblue;
+    margin-left: 20px;
+    padding-bottom: 100px;
+    border: 1px solid rgba(0, 0, 0, 0.425);
+}
+.b5 h1{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.b5 h2{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.b5 h3{
+    padding-left: 30px;
+    padding-top: 20px;
+
+}
+.b5 p{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.b5 button{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 70px;
+    float: left 50px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+button:hover{
+    background-color: white;
+     color: black
+}
+   
+.box2{
+    display: flex;
+    column-gap: 300px;
+    padding-top: 100px;
+}
+.b6 p{
+    font-size: 20px;
+
+}
+
+
+.b6 h1{
+    font-size: 20px;
+}
+
+.b7 h1{
+    font-size: 20px;
+
+}
+.b7 p{
+    font-size: 20px;
+} 
+.b8 h1{
+    font-size: 20px;
+}
+.b8 input{
+    border-bottom: 1px black solid;
+    padding-top: 50PX;
+    padding-top: 30px;
+    text-size-adjust: 10px;
+    font-size: 30px;
+}
+input{
+    outline: 0;
+    border-width: 0 0 2px;
+   
+}
+ button:hover{
+    background-color: white;
+     color: black;
+}
+.b8 button {
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 60px;
+    margin-top: 20px;
+
+}
+.BOX3 {
+ padding-left: 700px;
+ display: flex;
+ padding-top: 200PX;
+ max-width:20px ;
+
+ }  
+.BOX3 button{
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 60px; 
+}
+button:hover{
+    background-color: white;
+     color: black
+}
+   
+   
+   
+
+
+
+
+
+
+
+

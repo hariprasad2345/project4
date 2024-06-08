@@ -1,0 +1,213 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    display: flex;
+    list-style-type: none;
+    width: 1500px;
+    height: 100px;
+    background-color: aliceblue;
+    padding-top: 20px;
+    position: fixed;
+    
+}
+.logo{
+    display: flex;
+    padding-top: 10px;
+ 
+}
+.b1 h1{
+    font-size: 20px;
+    padding-top: 30px;
+}
+.navbar{
+   padding-left: 500px;
+  
+}
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    padding-left: 40px;
+    padding-top: 30px;
+   
+}
+li a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.61);
+    font-weight: bold;
+}
+.b2 h1{
+    font-size: 80px;
+    padding-top: 150px;
+}
+.task1{
+    display: flex;
+   
+}
+.b3 h1{
+    padding-top: 60px;
+}
+.b3 img{
+    padding-left: 200px;
+}
+.b4{
+   margin-left: 300px;
+   margin-top: 20px;
+}
+.b4 input{
+    border-bottom: 1px black solid;
+    padding-top: 100PX;
+    padding-top: 30px;
+    text-size-adjust: 20px;
+    font-size: 30px;
+   
+}
+input{
+    outline: 0;
+    border-width: 0 0 2px;}
+.b4 button{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 60px;
+    margin-top: 20px;
+    margin-top: 80px;
+}
+button:hover{
+    background-color: white;
+     color: rgb(0, 0, 0)
+}
+.box2{
+    display: flex;
+    column-gap: 300px;
+    padding-top: 100px;
+}
+.b6 p{
+    font-size: 20px;
+
+}
+
+
+.b6 h1{
+    font-size: 20px;
+}
+
+.b7 h1{
+    font-size: 20px;
+
+}
+.b7 p{
+    font-size: 20px;
+} 
+.b8 h1{
+    font-size: 20px;
+}
+.b8 input{
+    border-bottom: 1px black solid;
+    padding-top: 50PX;
+    padding-top: 30px;
+    text-size-adjust: 10px;
+    font-size: 30px;
+}
+input{
+    outline: 0;
+    border-width: 0 0 2px;
+   
+}
+ button:hover{
+    background-color: white;
+     color: black;
+}
+.b8 button {
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 60px;
+    margin-top: 20px;
+
+}
+.box1{
+    display: flex;
+    column-gap: 300px;
+    padding-top: 100px;
+}
+.b5 p{
+    font-size: 20px;
+
+}
+
+
+.b5 h1{
+    font-size: 20px;
+}
+
+.b6 h1{
+    font-size: 20px;
+
+}
+.b6 p{
+    font-size: 20px;
+} 
+.b7 h1{
+    font-size: 20px;
+}
+.b7 input{
+    border-bottom: 1px black solid;
+    padding-top: 50PX;
+    padding-top: 30px;
+    text-size-adjust: 10px;
+    font-size: 30px;
+}
+input{
+    outline: 0;
+    border-width: 0 0 2px;
+   
+}
+
+
+.b7 button {
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 60px;
+    margin-top: 20px;
+
+}
+.BOX2 {
+    padding-left: 700px;
+    display: flex;
+    padding-top: 100PX;
+    max-width:20px ;
+   
+    }  
+   .BOX2 button{
+       background-color: rgba(0, 0, 0, 0.753);
+       color: white;
+       padding-left: 50px;
+       padding-right: 50px;
+       padding-bottom: 10px;
+       padding-top: 10px;
+       border-radius: 60px; 
+   }
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
